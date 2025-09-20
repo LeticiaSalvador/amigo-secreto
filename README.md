@@ -1,9 +1,8 @@
 # 🎁 Sorteio de Amigo Secreto
 
-Este é um projeto simples de **sorteio de amigo secreto**, feito com **HTML**, **CSS** e **JavaScript**, que permite cadastrar nomes de participantes, sortear automaticamente os nomes sem repetições e exibe o resultado final de forma prática.
-# Amigo Secreto 🎁
-
 ![capa do projeto](img-amigo.png)
+
+Este é um projeto simples de **sorteio de amigo secreto**, feito com **HTML**, **CSS** e **JavaScript**, que permite cadastrar nomes de participantes, sortear automaticamente os nomes sem repetições e exibe o resultado final de forma prática.
 
 ## ✅ Funcionalidades
 
