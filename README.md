@@ -14,11 +14,10 @@ Este é um projeto simples de **sorteio de amigo secreto**, feito com **HTML**, 
 
 ## 🚀 Como usar
 
-1. Abra o arquivo `index.html` no navegador.
-2. Digite os nomes dos participantes um por um.
-3. Clique em "**Adicionar**" para incluir cada nome.
-4. Após adicionar todos, clique em "**Sortear**".
-5. Os nomes sorteados serão exibidos na tela.
+1. Digite os nomes dos participantes um por um.
+2. Clique em "**Adicionar**" para incluir cada nome.
+3. Após adicionar todos, clique em "**Sortear**".
+4. Os nomes sorteados serão exibidos na tela.
 
 ## 🎥 Demonstração
 
@@ -39,9 +38,3 @@ Este é um projeto simples de **sorteio de amigo secreto**, feito com **HTML**, 
 - HTML5
 - CSS3
 - JavaScript
-- 
-## 🌐 Acesse o projeto online
-
-🔗 [Clique aqui para acessar o projeto no Vercel]()
-
-
