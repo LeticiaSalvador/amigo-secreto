@@ -18,6 +18,11 @@ Este é um projeto simples de **sorteio de amigo secreto**, feito com **HTML**, 
 4. Após adicionar todos, clique em "**Sortear**".
 5. Os nomes sorteados serão exibidos na tela.
 
+## 🎥 Demonstração
+
+![Demonstração do sorteio](demo.gif)
+
+
 ## ⚠️ Regras do Sorteio
 
 - Não é permitido adicionar nomes em branco.
@@ -33,5 +38,4 @@ Este é um projeto simples de **sorteio de amigo secreto**, feito com **HTML**, 
 
 🔗 [Clique aqui para acessar o projeto no Vercel]()
 
-# amigo-secreto
-sortear um amigo aleatório de uma lista de amigos
+
