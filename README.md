@@ -22,6 +22,10 @@ Este é um projeto simples de **sorteio de amigo secreto**, feito com **HTML**, 
 
 ![Demonstração do sorteio](demo.gif)
 
+## 🌐 Acesse o projeto online
+
+🔗 [Clique aqui para ver o projeto publicado](https://amigo-secreto-orcin-omega.vercel.app/)
+
 
 ## ⚠️ Regras do Sorteio
 
