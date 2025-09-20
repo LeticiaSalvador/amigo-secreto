@@ -28,8 +28,8 @@ function sortearAmigo() {
     }
     const indice = Math.floor(Math.random() * amigos.length);
     const sorteado = amigos[indice];
-    amigos.splice(indice, 1); // Remove o nome sorteado da lista
-    atualizarLista(); // Atualiza a lista exibida
+    amigos.splice(indice, 1);
+    atualizarLista();
     const resultado = document.getElementById('resultado');
     resultado.innerHTML = `<li>Amigo sorteado: <strong>${sorteado}</strong></li>`;
 }
