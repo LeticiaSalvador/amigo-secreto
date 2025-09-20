@@ -1,2 +1,2 @@
 # amigo-secreto
-Jogo para sortear um amigo
+sortear um amigo aleatório de uma lista de amigos
